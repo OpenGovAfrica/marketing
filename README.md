@@ -24,17 +24,16 @@ The repository is organized into the following directories:
 - `analytics/`: Contains reports and analyses of marketing performance.
 
 ## How to Contribute
-We welcome contributions from everyone. Here are the steps to contribute to this repository:
+To ensure a smooth integration into our team and projects, please follow these steps if you haven’t done so already:
 
-1. **Fork the Repository**: Click on the "Fork" button at the top of this repository to create a copy in your GitHub account.
-2. **Clone the Repository**: Clone the repository to your local machine using `git clone https://github.com/your-username/marketing.git`.
-3. **Create a Branch**: Create a new branch for your contributions using `git checkout -b branch-name`.
-4. **Make Your Changes**: Make the necessary changes and improvements.
-5. **Commit Your Changes**: Commit your changes with a descriptive message using `git commit -m "Your message here"`.
-6. **Push to the Branch**: Push your changes to the branch using `git push origin branch-name`.
-7. **Create a Pull Request**: Create a pull request from your branch to the main repository.
+- Join our Discord Workspace: Please join us on Discord to be part of our daily communications and updates. Here is the link to our workspace: [OpenGov Africa Discord](https://discord.gg/G42CQJJp3X). This platform will be crucial for real-time collaboration and updates.
 
-For detailed instructions, refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file.
+- Sign Up on GitHub: Follow OpenGov Africa on GitHub: OpenGov Africa GitHub. GitHub will be our central hub for all collaborative projects and resource sharing.
+Please share your GitHub username via an issue to be added as a team member. This will allow you get notified from your specified repositories and workstreams.
+
+- Volunteer for Leadership Roles: We are a growing team and are in need of leaders who can guide various initiatives. If you are passionate about open governance and wish to take a more active role, please reply to this email to express your interest in volunteering as a lead or co-lead.
+
+- Fill Our Marketing Volunteer Form: Please fill out our form [here](https://forms.gle/zcsETDxW1WpgoGBm9)
 
 ## Marketing Strategies
 Our marketing strategies focus on:
@@ -53,7 +52,7 @@ When creating content for OpenGov Africa, please adhere to the following guideli
 
 ## Contact Information
 For any questions, suggestions, or feedback, please contact us at:
-- **Email**: citizens@opengovafrica.org
+- **Email**: hr@opengovafrica.org
 - **Website**: [opengovafrica.org](http://opengovafrica.org)
 - **Twitter**: [@OpenGovAfrica](https://twitter.com/OpenGovAfrica)
 - **Facebook**: [OpenGov Africa](https://facebook.com/OpenGovAfrica)
