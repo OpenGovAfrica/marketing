@@ -24,6 +24,8 @@ The repository is organized into the following directories:
 - `analytics/`: Contains reports and analyses of marketing performance.
 
 ## How to Contribute
+To get started with our team culture, tools, and workflow, please read our new [Team Onboarding Guide](./ONBOARDING.md).
+
 To ensure a smooth integration into our team and projects, please follow these steps if you haven’t done so already:
 
 - Join our Discord Workspace: Please join us on Discord to be part of our daily communications and updates. Here is the link to our workspace: [OpenGov Africa Discord](https://discord.gg/G42CQJJp3X). This platform will be crucial for real-time collaboration and updates.
