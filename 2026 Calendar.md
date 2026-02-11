@@ -42,7 +42,17 @@
 ## FEBRUARY — *CITIZENSHIP, LEGITIMACY & PARTICIPATION* 
 **Key Contextual Moments:**  
 - **African Union Summits (typically February):** continental governance, integration, legitimacy  
-- Youth civic engagement discourse  
+- Youth civic engagement discourse
+
+### February Global Holidays (Pick what we want to do)
+
+| Date | Day | Content Action | Tag | Caption | Alignment |
+|---|---|---|---|---|---|
+| Feb 11 | Women & Girls in Science Day | YouTube Live + Data Release | Advocacy | Women’s participation in science and technology depends on public investment. This live session explores STEM funding, gender gaps, and policy accountability in Africa. Keywords: women in STEM Africa, gender equity policy, science funding. | Gender budgeting |
+| Feb 20 | World Day of Social Justice | Policy Scorecard | Research | Social justice is measurable. We publish a scorecard assessing inequality, access to services, and social protection systems across African regions. Keywords: social justice Africa, inequality data, governance scorecard. | Social sector budget reviews |
+| Feb 21 | Mother Language Day | Explainer + Dataset | Tech | Language determines access to governance. This dataset maps African countries offering public information in local languages and the impact on civic participation. Keywords: access to information Africa, language inclusion, open government. | Civic inclusion evaluation |
+
+---
 
 ### WEEK 1 — *What Citizenship Really Is*
 | # | Category | Post | Caption |
@@ -86,6 +96,19 @@
 **Key Governance Days:**  
 - **Mar 8:** International Women’s Day  
 - **Mar 3:** World Press Freedom Day (Africa observance messaging can start in March buildup)  
+
+### March Global Holidays (Pick what we want to do)
+
+| Date | Day | Content Action | Tag | Caption | Alignment |
+|---|---|---|---|---|---|
+| Mar 8 | International Women’s Day | Policy Critique + Live Discussion | Advocacy | Gender equality is not symbolic. We examine women’s political representation, gender budgeting, and legal protections across Africa. Keywords: women in governance Africa, gender policy analysis, political representation. | Electoral inclusion |
+| Mar 15 | Consumer Rights Day | Civic Thread + Explainer | Research | Consumer protection reflects regulatory strength. This thread examines market regulation, pricing transparency, and citizen protection frameworks in Africa. Keywords: consumer rights Africa, regulatory governance, accountability. | Economic governance |
+| Mar 20 | Day of Happiness | Governance Explainer | Research | Happiness is linked to governance quality. We explore how service delivery, trust, and transparency affect citizen well-being in African states. Keywords: governance outcomes, public trust Africa. | Governance performance |
+| Mar 21 | Anti-Racism Day | Policy Brief | Advocacy | Structural discrimination weakens governance. This brief analyzes racial and ethnic inclusion in African political and administrative systems. Keywords: racial justice Africa, inclusive governance. | Minority protection |
+| Mar 22 | World Water Day | Dataset + Dashboard | Tech | Water is a public good. This dashboard tracks water access, infrastructure funding, and procurement transparency across Africa. Keywords: water governance Africa, public utilities transparency. | Infrastructure budgets |
+| Mar 23 | World Meteorological Day | Climate Data Release | Research | Climate data saves lives. We publish an explainer on climate data transparency and disaster preparedness governance. Keywords: climate governance Africa, open climate data. | Climate adaptation planning | 
+
+---
 
 ### WEEK 1
 | # | Category | Post | Caption |
