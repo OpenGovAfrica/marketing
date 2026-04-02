@@ -1,3 +1,74 @@
+### April (Detailed Team Calendar)
+
+#### Focus: Education → Storytelling → Conversion (Video-First System - Reels or Contributor Videos)
+
+### Week 2 — Education Series 
+#### Objective: Build understanding of governance systems
+
+| Day | Content Type | Topic | Description | Video Creator Role | Marketing Research & Data | Blog Team | Design Team | Social Media Team | Newsletter Team |
+|-----|-------------|------|-------------|--------------------|--------------------------|-----------|--------------|------------------|-----------------|
+| Mon | Video | Where your tax money SHOULD go | Breakdown of public finance flow | Explainer 1 | Provide data on budget allocation examples | Long-form article on public finance basics | Visual diagram (tax → budget → services) | Caption + distribution across platforms | Feature in weekly digest |
+| Tue | Video | Why bad roads are a governance issue | Link infrastructure failure to policy decisions | Explainer 2 | Provide infrastructure statistics | Blog: Infrastructure & accountability | Before/after road visuals | Short-form captions + engagement prompts | — |
+| Wed | Infographic | Budget vs Reality | Compare expected vs actual service delivery | — | Compile simplified datasets | Supporting blog snippet | Carousel infographic | Publish across platforms | — |
+| Thu | Video | What good governance looks like | Showcase ideal system outcomes | Hybrid Creator | Case studies (functional systems) | Blog: “What good governance means” | Clean, aspirational visuals | Distribution + discussion prompts | — |
+| Fri | Content Series | Governance Basics (Day 1–5) | Structured civic education series adapted into multi-platform threads/videos | — | Provide simplified data points | Convert into micro blog series | Minimal, clean visuals | Daily thread/video posts + engagement tracking | Include summary + CTA |
+
+### Week 3 — Storytelling (Relatable Impact)
+#### Objective: Build emotional connection and relevance
+
+| Day | Content Type | Topic | Description | Video Creator Role | Marketing Research & Data | Blog Team | Design Team | Social Media Team | Newsletter Team |
+|-----|-------------|------|-------------|--------------------|--------------------------|-----------|--------------|------------------|-----------------|
+| Mon | Video | Traffic & bad roads story | Real-life impact of poor infrastructure | Storyteller 1 | Validate urban transport data | Blog: “The cost of bad roads” | Visual storytelling frames | Caption + relatability hooks | Feature story |
+| Tue | Video | Power outage experience | Economic + personal cost of no electricity | Storyteller 2 | Provide energy outage stats | Blog: “Energy failure & citizens” | Dark/light contrast visuals | Engagement-driven captions | — |
+| Wed | UGC Video | Show us governance in your area | Call for citizen submissions | Mobilizer | Define submission criteria | Blog: “Why citizen voices matter” | Campaign branding assets | Hashtag rollout (#MyGovReality) | — |
+| Thu | Community Content | Real citizen clips | Curated submissions from audience | Mobilizer | Verify submissions | Short blog feature on submissions | Frame templates for UGC | Amplify best submissions | Include top submissions |
+| Fri | Campaign Push | #MyGovReality | Reinforce participation | Mobilizer | Track engagement metrics | Weekly recap blog | Campaign visuals | Trend amplification | Weekly campaign summary |
+
+### Week 4 — Soft Onboarding for _Strategy project_
+#### Objective: Turn audience into participants
+
+| Day | Content Type | Topic | Description | Video Creator Role | Marketing Research & Data | Blog Team | Design Team | Social Media Team | Newsletter Team |
+|-----|-------------|------|-------------|--------------------|--------------------------|-----------|--------------|------------------|-----------------|
+| Mon | Video | How you can help fix your community | Clear pathway to participation | Mobilizer | Define key participation metrics | Blog: “How to get involved” | Step-by-step visual guide | CTA-focused captions | Feature onboarding |
+| Tue | Video | What is a citizen reporter? | Define role and importance | Explainer | Provide reporting framework | Blog: Citizen reporting explained | Educational visuals | Distribution + clarity messaging | — |
+| Wed | Infographic | How reporting works | Step-by-step process | — | Map reporting workflow | Blog support content | Process infographic | Publish across platforms | — |
+| Thu | Testimonial Video | Early participant stories | Build trust through proof | Community Voice | Collect testimonials | Blog: “Voices from the field” | Clean testimonial templates | Amplify credibility | Highlight stories |
+| Fri | Conversion Push | Join as foot soldier/data reporter | Final recruitment push | Mobilizer | Track sign-ups | Blog recap + CTA | CTA graphics | Strong call-to-action | Dedicated CTA section 
+
+### Cross-Team Responsibilities
+
+#### Marketing Research & Data
+- Provide weekly data briefs  
+- Validate all claims and statistics  
+- Track performance metrics (engagement, submissions, conversions)  
+
+#### Blog Team
+- Convert all key content into long-form authority pieces  
+- Ensure SEO + thought leadership positioning  
+- Maintain narrative consistency across weeks  
+
+#### Speaker & Video Creators
+- Execute weekly content based on assigned roles  
+- Maintain clarity, authority, and relatability  
+- Align messaging with weekly objectives  
+
+#### Design Team
+- Translate complex ideas into simple visuals  
+- Maintain strong, consistent visual identity  
+- Optimize for mobile-first consumption across platforms  
+
+#### Social Media Team
+- Platform-specific adaptation (Instagram, Twitter/X, LinkedIn)  
+- Caption writing with strong hooks and clarity  
+- Community engagement and response management  
+
+#### Newsletter Team
+- Weekly synthesis of key insights  
+- Highlight best content and participation opportunities  
+- Reinforce authority and community belonging  
+
+---
+
 ### JANUARY — *UNDERSTANDING POWER & THE STATE*
 **Key Contextual Moments:**  
 - New fiscal years & policy resets in many countries  
@@ -144,72 +215,3 @@
 |18 | Research | Accountability data insight | “What our data reveals about oversight gaps.” |
 |19 | University | Campus outreach | “Students can defend accountability too. Bring OGA to your campus.” |
 |20 | Educational | Month reflection | “Transparency is the architecture of trust.” |
-
-### April (Detailed Team Calendar)
-
-#### Focus: Education → Storytelling → Conversion (Video-First System - Reels or Contributor Videos)
-
-### Week 2 — Education Series 
-#### Objective: Build understanding of governance systems
-
-| Day | Content Type | Topic | Description | Video Creator Role | Marketing Research & Data | Blog Team | Design Team | Social Media Team | Newsletter Team |
-|-----|-------------|------|-------------|--------------------|--------------------------|-----------|--------------|------------------|-----------------|
-| Mon | Video | Where your tax money SHOULD go | Breakdown of public finance flow | Explainer 1 | Provide data on budget allocation examples | Long-form article on public finance basics | Visual diagram (tax → budget → services) | Caption + distribution across platforms | Feature in weekly digest |
-| Tue | Video | Why bad roads are a governance issue | Link infrastructure failure to policy decisions | Explainer 2 | Provide infrastructure statistics | Blog: Infrastructure & accountability | Before/after road visuals | Short-form captions + engagement prompts | — |
-| Wed | Infographic | Budget vs Reality | Compare expected vs actual service delivery | — | Compile simplified datasets | Supporting blog snippet | Carousel infographic | Publish across platforms | — |
-| Thu | Video | What good governance looks like | Showcase ideal system outcomes | Hybrid Creator | Case studies (functional systems) | Blog: “What good governance means” | Clean, aspirational visuals | Distribution + discussion prompts | — |
-| Fri | Content Series | Governance Basics (Day 1–5) | Structured civic education series adapted into multi-platform threads/videos | — | Provide simplified data points | Convert into micro blog series | Minimal, clean visuals | Daily thread/video posts + engagement tracking | Include summary + CTA |
-
-### Week 3 — Storytelling (Relatable Impact)
-#### Objective: Build emotional connection and relevance
-
-| Day | Content Type | Topic | Description | Video Creator Role | Marketing Research & Data | Blog Team | Design Team | Social Media Team | Newsletter Team |
-|-----|-------------|------|-------------|--------------------|--------------------------|-----------|--------------|------------------|-----------------|
-| Mon | Video | Traffic & bad roads story | Real-life impact of poor infrastructure | Storyteller 1 | Validate urban transport data | Blog: “The cost of bad roads” | Visual storytelling frames | Caption + relatability hooks | Feature story |
-| Tue | Video | Power outage experience | Economic + personal cost of no electricity | Storyteller 2 | Provide energy outage stats | Blog: “Energy failure & citizens” | Dark/light contrast visuals | Engagement-driven captions | — |
-| Wed | UGC Video | Show us governance in your area | Call for citizen submissions | Mobilizer | Define submission criteria | Blog: “Why citizen voices matter” | Campaign branding assets | Hashtag rollout (#MyGovReality) | — |
-| Thu | Community Content | Real citizen clips | Curated submissions from audience | Mobilizer | Verify submissions | Short blog feature on submissions | Frame templates for UGC | Amplify best submissions | Include top submissions |
-| Fri | Campaign Push | #MyGovReality | Reinforce participation | Mobilizer | Track engagement metrics | Weekly recap blog | Campaign visuals | Trend amplification | Weekly campaign summary |
-
-### Week 4 — Soft Onboarding for _Strategy project_
-#### Objective: Turn audience into participants
-
-| Day | Content Type | Topic | Description | Video Creator Role | Marketing Research & Data | Blog Team | Design Team | Social Media Team | Newsletter Team |
-|-----|-------------|------|-------------|--------------------|--------------------------|-----------|--------------|------------------|-----------------|
-| Mon | Video | How you can help fix your community | Clear pathway to participation | Mobilizer | Define key participation metrics | Blog: “How to get involved” | Step-by-step visual guide | CTA-focused captions | Feature onboarding |
-| Tue | Video | What is a citizen reporter? | Define role and importance | Explainer | Provide reporting framework | Blog: Citizen reporting explained | Educational visuals | Distribution + clarity messaging | — |
-| Wed | Infographic | How reporting works | Step-by-step process | — | Map reporting workflow | Blog support content | Process infographic | Publish across platforms | — |
-| Thu | Testimonial Video | Early participant stories | Build trust through proof | Community Voice | Collect testimonials | Blog: “Voices from the field” | Clean testimonial templates | Amplify credibility | Highlight stories |
-| Fri | Conversion Push | Join as foot soldier/data reporter | Final recruitment push | Mobilizer | Track sign-ups | Blog recap + CTA | CTA graphics | Strong call-to-action | Dedicated CTA section 
-
-### Cross-Team Responsibilities
-
-#### Marketing Research & Data
-- Provide weekly data briefs  
-- Validate all claims and statistics  
-- Track performance metrics (engagement, submissions, conversions)  
-
-#### Blog Team
-- Convert all key content into long-form authority pieces  
-- Ensure SEO + thought leadership positioning  
-- Maintain narrative consistency across weeks  
-
-#### Speaker & Video Creators
-- Execute weekly content based on assigned roles  
-- Maintain clarity, authority, and relatability  
-- Align messaging with weekly objectives  
-
-#### Design Team
-- Translate complex ideas into simple visuals  
-- Maintain strong, consistent visual identity  
-- Optimize for mobile-first consumption across platforms  
-
-#### Social Media Team
-- Platform-specific adaptation (Instagram, Twitter/X, LinkedIn)  
-- Caption writing with strong hooks and clarity  
-- Community engagement and response management  
-
-#### Newsletter Team
-- Weekly synthesis of key insights  
-- Highlight best content and participation opportunities  
-- Reinforce authority and community belonging  
