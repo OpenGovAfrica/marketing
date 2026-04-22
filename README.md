@@ -23,6 +23,30 @@ The repository is organized into the following directories:
 - `community_engagement/`: Contains resources and strategies for engaging with the community.
 - `analytics/`: Contains reports and analyses of marketing performance.
 
+Your version is already solid—this just tightens it slightly and clearly embeds where the research must live so there’s no ambiguity:
+
+---
+
+## Contributors & Roles (Marketing Research Team)
+
+Each marketing research issue follows an individual-ownership, collaborative-contribution model. While multiple researchers may contribute insights across countries, sources, and supporting touchpoints, all contributions must remain clearly attributable.
+
+All research outputs must be saved and maintained in the central repository:
+[https://github.com/OpenGovAfrica/marketing/tree/main/Research%20and%20Data](https://github.com/OpenGovAfrica/marketing/tree/main/Research%20and%20Data)
+Work that is not documented here will not be considered as part of the final contribution.
+
+Collaboration is encouraged through shared discussions, reviews, and refinement of the overall research output. However, ownership is defined by what each contributor directly researched, compiled, or improved—not by participation alone.
+
+Each contributor is credited for their specific inputs, such as country-level research, datasets, source validation, comparative analysis, or added context (e.g., links, references, or insight enhancements). Adding meaningful touchpoints that strengthen the overall quality of the research is recognized, but must still be explicitly documented and linked within the repository.
+
+| Contributor   | Country / Focus Area           | Contribution Type                                      | Owned Outputs                                                                                              |
+| ------------- | ------------------------------ | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Name / GitHub | e.g., Kenya, Nigeria, Regional | Country research, data sourcing, validation, synthesis | Clearly defined inputs (country reports, datasets, annotated sources, added references, insight summaries) |
+
+This table must be continuously updated as new contributions are made. Even within a single shared research issue, ownership should always be traceable to specific inputs or improvements—whether that is a country deep-dive, a verified data source, or an added reference that enhances the collective output.
+
+General contributions such as comments or discussions do not constitute ownership unless they result in a clearly defined, documented, and repository-linked addition to the research.
+
 ## How to Contribute
 To get started with our team culture, tools, and workflow, please read our new [Team Onboarding Guide](./ONBOARDING.md).
 
