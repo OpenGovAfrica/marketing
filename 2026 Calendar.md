@@ -1,4 +1,4 @@
-# OpenGov Africa — May Content Calendar
+### May Content Calendar
 ### Theme: Budgets, Labour & Africa in Context  
 ### Format: Reel-First Content System  
 
