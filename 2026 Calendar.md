@@ -1,3 +1,84 @@
+# OpenGov Africa — May Content Calendar
+### Theme: Budgets, Labour & Africa in Context  
+### Format: Reel-First Content System  
+
+### Week 1 — Workers & Public Finance  
+**Objective:** Connect governance to livelihoods and economic dignity  
+
+| Day | Content Type | Topic | Description | Marketing Research & Data | Blog Team | Speaker & Video Creator | Design Team | Social Media Team | Newsletter Team |
+|-----|-------------|-------|-------------|---------------------------|-----------|--------------------------|--------------|------------------|-----------------|
+| Mon | Reel | How budgets affect workers | Show how public spending impacts wages and services | Provide wage + public spending data | Write: “Budgets & Everyday Life” | Record explainer Reel | Create budget flow visuals | Caption + distribute Reel | Add to weekly digest |
+| Tue | Reel | Where government money goes | Track allocation vs reality | Provide simplified budget breakdown | Write: “Public Finance Explained” | Record explainer Reel | Design allocation visuals | Engagement captions | — |
+| Wed | Carousel | Regional economic update | Governance + economy updates across Africa | Compile regional data | Write weekly brief | — | Map-based carousel | Publish + engage audience | Include summary |
+| Thu | Reel (Live Promo) | Public finance & labour | Introduce live discussion | Provide key insights | Write: “Budgets & Labour Systems” | Record promo Reel | Design promo assets | Push across platforms | Include invite |
+| Fri | Reel | Labour rights & governance | Link labour protection to policy | Provide labour law data | Write: “Labour & Governance” | Record explainer Reel | Clean educational visuals | Caption + CTA | — |
+| Sat | Situation | Workers’ Day | Contextualise governance relevance | Provide historical + policy context | Short blog | — | Minimal visuals | Timely post | — |
+| Sun | Community Post | What does fair work mean? | Audience engagement | Analyse responses | Write citizen insight blog | Record response-style Reel (optional) | Simple graphic | Drive engagement | Reflect insights |
+
+### Week 2 — Press Freedom & Accountability  
+**Objective:** Position transparency as a governance pillar  
+
+| Day | Content Type | Topic | Description | Marketing Research & Data | Blog Team | Speaker & Video Creator | Design Team | Social Media Team | Newsletter Team |
+|-----|-------------|-------|-------------|---------------------------|-----------|--------------------------|--------------|------------------|-----------------|
+| Mon | Reel | Why press freedom matters | Link media to accountability | Provide press freedom data | Write: “Media & Governance” | Record explainer Reel | Editorial visuals | Caption + authority tone | Feature |
+| Tue | Reel | Corruption hides in silence | Show impact of lack of transparency | Provide case studies | Write: “Corruption & Media” | Record explainer Reel | Contrast visuals | Engagement captions | — |
+| Wed | Carousel | Regional governance update | Media + transparency developments | Compile updates | Weekly brief | — | Carousel design | Publish | Summary |
+| Thu | Reel (Live Promo) | Media, money & power | Introduce live session | Provide key talking points | Write: “Media & Budgets” | Record promo Reel | Promo assets | Push event | Include invite |
+| Fri | Reel | Journalism protects public money | Explain investigative journalism role | Provide examples | Write: “Investigative Journalism” | Record explainer Reel | Clean visuals | Caption + CTA | — |
+| Sat | Situation | Press Freedom Day | Contextualise for Africa | Provide context data | Short blog | — | Minimal visuals | Timely post | — |
+| Sun | Community Post | Can media be trusted? | Audience engagement | Analyse sentiment | Write insight blog | Optional Reel response | Simple graphic | Drive discussion | Reflect insights |
+
+### Week 3 — Africa Day & Governance Identity  
+**Objective:** Reframe African governance narratives  
+
+| Day | Content Type | Topic | Description | Marketing Research & Data | Blog Team | Speaker & Video Creator | Design Team | Social Media Team | Newsletter Team |
+|-----|-------------|-------|-------------|---------------------------|-----------|--------------------------|--------------|------------------|-----------------|
+| Mon | Reel | Who defines African governance? | Challenge external narratives | Provide policy + historical context | Write: “African Governance Lens” | Record explainer Reel | Bold identity visuals | Caption + positioning | Feature |
+| Tue | Reel | Imported systems vs local realities | Show governance mismatch | Provide comparative data | Write: “Systems Mismatch” | Record explainer Reel | Comparison visuals | Engagement captions | — |
+| Wed | Carousel | Regional update | Sovereignty + governance updates | Compile updates | Weekly brief | — | Map visuals | Publish | Summary |
+| Thu | Reel (Live Promo) | Africa Day forum | Introduce live discussion | Provide themes | Write: “Africa Day Context” | Record promo Reel | Promo assets | Push event | Include invite |
+| Fri | Reel | Africa Day message | Governance rooted in dignity | Provide cultural + historical framing | Write reflection blog | Record storytelling Reel | Strong visuals | Caption + resonance | Feature |
+| Sat | Situation | Africa Day | Timely positioning | Provide context | Short blog | — | Minimal visuals | Publish | — |
+| Sun | Community Post | Citizen voices on Africa | Audience submissions | Curate responses | Write community blog | Compile Reel (UGC optional) | UGC templates | Amplify voices | Include highlights |
+
+### Week 4 — Budget Transparency & Systems Thinking  
+**Objective:** Build authority through data and insights  
+
+| Day | Content Type | Topic | Description | Marketing Research & Data | Blog Team | Speaker & Video Creator | Design Team | Social Media Team | Newsletter Team |
+|-----|-------------|-------|-------------|---------------------------|-----------|--------------------------|--------------|------------------|-----------------|
+| Mon | Reel | Where public money is lost | Identify inefficiencies | Provide financial gap data | Write: “Budget Gaps” | Record explainer Reel | Data visuals | Caption + clarity | Feature |
+| Tue | Reel | Why budgets fail citizens | Link system failures to outcomes | Provide case studies | Write: “Budget Failures” | Record explainer Reel | Clean visuals | Engagement captions | — |
+| Wed | Carousel | Regional update | Budget + finance developments | Compile updates | Weekly brief | — | Carousel | Publish | Summary |
+| Thu | Reel | What transparency looks like | Define ideal systems | Provide benchmarks | Write: “Transparency Systems” | Record explainer Reel | Framework visuals | Distribution | — |
+| Fri | Research Post | Budget insights | Present key findings | Lead research | Write full report | — | Data storytelling visuals | Authority positioning | Feature |
+| Sat | Outreach | Campus engagement | Youth governance awareness | Provide youth data | Write: “Students & Governance” | Record outreach Reel | Youth visuals | Distribution | — |
+| Sun | Reflection | Monthly synthesis | Summarise insights | Compile metrics | Write May reflection | Optional summary Reel | Clean summary visuals | Publish | Lead feature |
+
+### Execution Notes
+
+- **Reels = Primary growth engine (awareness + reach)**
+- **Blogs = Depth + credibility**
+- **Carousels = Context + retention**
+- **Community Posts = Engagement + insight mining**
+- **Newsletter = Conversion + retention layer**
+
+### Ownership Clarity
+
+- **Marketing Research & Data:** Source of truth (data, insights, validation)  
+- **Blog Team:** Long-form authority & narrative depth  
+- **Speaker & Video Creator:** Face, voice, storytelling (Reels + Lives)  
+- **Design Team:** Visual clarity, brand consistency, data storytelling  
+- **Social Media Team:** Distribution, copywriting, engagement, growth  
+- **Newsletter Team:** Weekly synthesis, retention, and conversion  
+
+### Strategic Outcome (End of May)
+
+- Audience understands **how governance controls money and labour**
+- OpenGov Africa becomes a **trusted voice in public finance**
+- Content shifts audience from **awareness → systems thinking**
+- Strong foundation set for **June: accountability & civic action**
+
+
 ### April (Detailed Team Calendar)
 
 #### Focus: Education → Storytelling → Conversion (Video-First System - Reels or Contributor Videos)
